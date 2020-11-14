@@ -1,3 +1,3 @@
-# datacamp-projects
-This section consists of projects that i have completed during my studies in Datacamp. There are some jupyter
-notebooks in Python, some in R and others in SQL  and they explore topics of the Data Science World.
+# Personal Portifolio
+This section consists of projects that I have completed during my studies in Coursera, Datacamp, Codecademy, udemy, etc. There are some jupyter
+notebooks in Python, some in R and others in SQL  and they cover different areas of Data Science. Have fun!
